@@ -1,0 +1,29 @@
+Termos de Uso - DroneWeather
+
+Bem-vindo(a) ao DroneWeather! Antes de utilizar nosso aplicativo móvel, leia atentamente os seguintes termos de uso. Ao fazer uso do DroneWeather, você concorda em cumprir e ficar vinculado a estes termos. Se você não concorda com os termos apresentados abaixo, por favor, não utilize o aplicativo.
+
+Uso do Aplicativo
+1.1 O DroneWeather é um aplicativo gratuito para dispositivos móveis, destinado a fornecer previsão do tempo, informações sobre o índice KP e disponibilidade de satélites para auxiliar pilotos de drones em seu planejamento de voo.
+1.2 O aplicativo é disponibilizado "no estado em que se encontra", sem garantias expressas ou implícitas de qualquer tipo. O uso das informações fornecidas pelo DroneWeather é de sua responsabilidade.
+
+Dados e Informações
+2.1 O DroneWeather utiliza fontes de dados confiáveis e abertas para fornecer previsões do tempo, índice KP e disponibilidade de satélites. As informações de previsão do tempo são obtidas através da API Weather data by Open-Meteo.com (https://open-meteo.com/), e o nome das cidades é obtido em https://open-meteo.com/en/docs/geocoding-api. O nome da localização atual é obtido em nominatim.openstreetmap.org.
+2.2 As informações sobre a disponibilidade de satélites são obtidas no site oficial: https://celestrak.org, e o índice KP é obtido em: https://spaceweather.gfz-potsdam.de.
+2.3 Essas fontes de informações são gratuitas e abertas, permitindo que o DroneWeather seja um aplicativo totalmente gratuito.
+
+Responsabilidade do Usuário
+3.1 Ao utilizar o DroneWeather, você concorda em assumir total responsabilidade pelo uso adequado das informações fornecidas pelo aplicativo.
+3.2 Você reconhece que o voo de drones está sujeito a regulamentações locais, leis e restrições. É de sua responsabilidade conhecer e obedecer a todas as normas aplicáveis antes de operar um drone.
+3.3 Não nos responsabilizamos por quaisquer danos, perdas, lesões ou consequências resultantes do uso do DroneWeather ou da interpretação incorreta das informações fornecidas pelo aplicativo.
+
+Privacidade
+4.1 O DroneWeather coleta e armazena informações pessoais, como localização e preferências de configuração, apenas com o objetivo de fornecer um serviço personalizado e melhorar a experiência do usuário. Respeitamos sua privacidade e adotamos medidas adequadas para proteger seus dados.
+4.2 Não compartilhamos suas informações pessoais com terceiros, exceto quando exigido por lei ou quando necessário para fornecer os serviços solicitados por você.
+
+Modificações e Atualizações
+5.1 Reservamo-nos o direito de modificar ou atualizar estes termos de uso a qualquer momento, sem aviso prévio. Recomendamos que você revise regularmente os termos para estar ciente de quaisquer alterações.
+5.2 O uso contínuo do DroneWeather após a publicação de alterações nos termos de uso será considerado como sua aceitação dessas alterações.
+
+Encerramento do Acesso
+6.1 Reservamo-nos o direito de encerrar ou suspender seu acesso ao DroneWeather, a nosso critério, a qualquer momento e sem aviso prévio.
+6.2 Você pode encerrar o uso do DroneWeather a qualquer momento, desinstalando o aplicativo do seu dispositivo móvel.
